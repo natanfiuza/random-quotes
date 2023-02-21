@@ -4,7 +4,9 @@ Gera frases randomicas a partir de uma API
 
 O projeto utiliza o docker para o desenvolvimento
 
-Foi criado o arquivo build, ele é um alias para facilitar a execução do docker.
+Foi criado o arquivo build, ele é um alias para facilitar a execução do docker. 
+
+Utilizando o WSL no windows.
 
 ----
 

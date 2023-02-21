@@ -1,0 +1,28 @@
+{
+    "name": "natanfiuza/random-quotes",
+    "description": "A simple package to get quotes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Natanfiuza\\RandomQuotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NatanFiuza",
+            "email": "n@taniel.com.br"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^1.22"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
